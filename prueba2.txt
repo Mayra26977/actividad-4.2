@@ -1,0 +1,2 @@
+Soy el fichero prueba2.txt
+hola prueba2

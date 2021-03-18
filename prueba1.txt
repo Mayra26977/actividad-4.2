@@ -1,0 +1,3 @@
+
+Soy fichero prueba1.txt
+Hola
